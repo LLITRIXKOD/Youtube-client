@@ -1,0 +1,11 @@
+{
+  "extends": "airbnb/base",
+  "rules": {
+    "linebreak-style": ["error", "windows"],
+    "no-shadow": 2,
+		"no-shadow-restricted-names": 2
+	},
+	"env": {
+		"browser": true
+	}
+}
